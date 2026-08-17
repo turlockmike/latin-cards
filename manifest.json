@@ -1,0 +1,14 @@
+{
+  "name": "Tabula Latina — Latin Cards",
+  "short_name": "Latin",
+  "description": "Learn classical Latin: the family 592-word list plus homeschool vocabulary, mottos, and paradigm chants, with spaced repetition.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F3F0",
+  "theme_color": "#7C2153",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

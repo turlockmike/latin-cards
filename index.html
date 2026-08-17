@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tabula Latina</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#7C2153">
 <style>
   /* ---- tokens: light = marble, dark = wax tablet ---- */
   :root{
@@ -91,5 +94,11 @@
 <script src="fsrs.js"></script>
 <script src="data.js"></script>
 <script src="app.js"></script>
+<script>
+  /* PWA offline (same pattern as kana-cards); no-op where SW is unavailable (e.g. artifact sandbox) */
+  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    navigator.serviceWorker.register('./sw.js').catch(function(){});
+  }
+</script>
 </body>
 </html>
