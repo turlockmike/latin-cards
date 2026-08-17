@@ -1,0 +1,5453 @@
+[
+ {
+  "id": "c000",
+  "en": "adjective",
+  "la": "nōmen adiectīvum",
+  "gram": "n3 phrase",
+  "deck": "core",
+  "note": "grammar term"
+ },
+ {
+  "id": "c001",
+  "en": "adult",
+  "la": "adultus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c002",
+  "en": "afternoon",
+  "la": "tempus pomerīdiānum",
+  "gram": "n3 phrase",
+  "deck": "core",
+  "note": "post merīdiem = after midday"
+ },
+ {
+  "id": "c003",
+  "en": "air",
+  "la": "āēr, āeris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c004",
+  "en": "airport",
+  "la": "āeriportus, -ūs",
+  "gram": "m4",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c005",
+  "en": "alive",
+  "la": "vīvus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c006",
+  "en": "animal",
+  "la": "animal, -ālis",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c007",
+  "en": "apartment",
+  "la": "īnsula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman apartment block — same word as island!"
+ },
+ {
+  "id": "c008",
+  "en": "apple",
+  "la": "mālum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "mālum apple vs malum evil — macron matters"
+ },
+ {
+  "id": "c009",
+  "en": "april",
+  "la": "Aprīlis, -is",
+  "gram": "m3",
+  "deck": "core"
+ },
+ {
+  "id": "c010",
+  "en": "hand",
+  "la": "manus, -ūs",
+  "gram": "f4",
+  "deck": "core",
+  "note": "feminine! 4th decl."
+ },
+ {
+  "id": "c011",
+  "en": "army",
+  "la": "exercitus, -ūs",
+  "gram": "m4",
+  "deck": "core"
+ },
+ {
+  "id": "c012",
+  "en": "art",
+  "la": "ars, artis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c013",
+  "en": "artist",
+  "la": "artifex, -ficis",
+  "gram": "m/f3",
+  "deck": "core"
+ },
+ {
+  "id": "c014",
+  "en": "august",
+  "la": "Augustus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "named for Emperor Augustus"
+ },
+ {
+  "id": "c015",
+  "en": "author",
+  "la": "auctor, -ōris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "root of 'authority'"
+ },
+ {
+  "id": "c016",
+  "en": "baby",
+  "la": "īnfāns, -antis",
+  "gram": "m/f3",
+  "deck": "core",
+  "note": "lit. 'not speaking'"
+ },
+ {
+  "id": "c017",
+  "en": "back",
+  "la": "tergum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "the body part"
+ },
+ {
+  "id": "c018",
+  "en": "bad",
+  "la": "malus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c019",
+  "en": "bag",
+  "la": "saccus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c020",
+  "en": "ball",
+  "la": "pila, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c021",
+  "en": "banana",
+  "la": "ariēna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "attested in Pliny!"
+ },
+ {
+  "id": "c022",
+  "en": "band",
+  "la": "grex mūsicus",
+  "gram": "m3 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "grex = flock/troop (classical)"
+ },
+ {
+  "id": "c023",
+  "en": "bank",
+  "la": "argentāria, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "from argentum, silver"
+ },
+ {
+  "id": "c024",
+  "en": "bathroom",
+  "la": "balneum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "Romans loved baths"
+ },
+ {
+  "id": "c025",
+  "en": "beach",
+  "la": "lītus, -oris",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c026",
+  "en": "beard",
+  "la": "barba, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "root of 'barber'"
+ },
+ {
+  "id": "c027",
+  "en": "beautiful",
+  "la": "pulcher, -chra, -chrum",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c028",
+  "en": "bed",
+  "la": "lectus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c029",
+  "en": "bedroom",
+  "la": "cubiculum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c030",
+  "en": "beef",
+  "la": "bubula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "carō bubula, cow-meat"
+ },
+ {
+  "id": "c031",
+  "en": "beer",
+  "la": "cervēsia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Gaulish loan — cf. Spanish cerveza"
+ },
+ {
+  "id": "c032",
+  "en": "beverage",
+  "la": "pōtiō, -ōnis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "root of 'potion'"
+ },
+ {
+  "id": "c033",
+  "en": "bicycle",
+  "la": "birota, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1,
+  "note": "lit. 'two-wheel'"
+ },
+ {
+  "id": "c034",
+  "en": "big",
+  "la": "magnus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c035",
+  "en": "bill",
+  "la": "ratiō, -ōnis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "account/reckoning"
+ },
+ {
+  "id": "c036",
+  "en": "billion",
+  "la": "mīliardum",
+  "gram": "num",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c037",
+  "en": "bird",
+  "la": "avis, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in aviary"
+ },
+ {
+  "id": "c038",
+  "en": "black",
+  "la": "niger, -gra, -grum",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c039",
+  "en": "blindess",
+  "la": "caecitās, -ātis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c040",
+  "en": "blood",
+  "la": "sanguis, -inis",
+  "gram": "m3",
+  "deck": "core"
+ },
+ {
+  "id": "c041",
+  "en": "blue",
+  "la": "caeruleus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "from caelum, sky"
+ },
+ {
+  "id": "c042",
+  "en": "boat",
+  "la": "nāvicula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "little ship"
+ },
+ {
+  "id": "c043",
+  "en": "body",
+  "la": "corpus, -oris",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c044",
+  "en": "bone",
+  "la": "os, ossis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "short o — vs ōs, ōris mouth!"
+ },
+ {
+  "id": "c045",
+  "en": "book",
+  "la": "liber, librī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in library"
+ },
+ {
+  "id": "c046",
+  "en": "bottle",
+  "la": "lagoena, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c047",
+  "en": "bottom",
+  "la": "fundus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in 'fundamental'"
+ },
+ {
+  "id": "c048",
+  "en": "box",
+  "la": "arca, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in Noah's ark"
+ },
+ {
+  "id": "c049",
+  "en": "boy",
+  "la": "puer, puerī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c050",
+  "en": "brain",
+  "la": "cerebrum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c051",
+  "en": "bread",
+  "la": "pānis, -is",
+  "gram": "m3",
+  "deck": "core",
+  "note": "cf. companion = bread-sharer"
+ },
+ {
+  "id": "c052",
+  "en": "breakfast",
+  "la": "ientāculum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c053",
+  "en": "bridge",
+  "la": "pōns, pontis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in pontoon"
+ },
+ {
+  "id": "c054",
+  "en": "(older) brother",
+  "la": "frāter nātū maior",
+  "gram": "m3 phrase",
+  "deck": "core",
+  "note": "greater by birth"
+ },
+ {
+  "id": "c055",
+  "en": "(little) brother",
+  "la": "frāter nātū minor",
+  "gram": "m3 phrase",
+  "deck": "core",
+  "note": "lesser by birth"
+ },
+ {
+  "id": "c056",
+  "en": "brown",
+  "la": "fuscus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c057",
+  "en": "building",
+  "la": "aedificium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in edifice"
+ },
+ {
+  "id": "c058",
+  "en": "bus",
+  "la": "raeda pūblica",
+  "gram": "f1 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "raeda = classical carriage"
+ },
+ {
+  "id": "c059",
+  "en": "cake",
+  "la": "placenta, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "yes, really — Roman flat cake"
+ },
+ {
+  "id": "c060",
+  "en": "camera",
+  "la": "māchina photographica",
+  "gram": "f1 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c061",
+  "en": "camp",
+  "la": "castra, -ōrum",
+  "gram": "n2 pl",
+  "deck": "core",
+  "note": "-chester/-caster place names"
+ },
+ {
+  "id": "c062",
+  "en": "car",
+  "la": "autoraeda, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c063",
+  "en": "card",
+  "la": "chartula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "little paper"
+ },
+ {
+  "id": "c064",
+  "en": "cat",
+  "la": "fēlēs, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in feline"
+ },
+ {
+  "id": "c065",
+  "en": "ceiling",
+  "la": "lacūnar, -āris",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c066",
+  "en": "cell phone",
+  "la": "tēlephōnum gestābile",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "carryable telephone"
+ },
+ {
+  "id": "c067",
+  "en": "centimeter",
+  "la": "centimetrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c068",
+  "en": "chair",
+  "la": "sella, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c069",
+  "en": "cheap",
+  "la": "vīlis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in vile"
+ },
+ {
+  "id": "c070",
+  "en": "cheese",
+  "la": "cāseus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "cf. queso, Käse"
+ },
+ {
+  "id": "c071",
+  "en": "chicken",
+  "la": "pullus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in poultry"
+ },
+ {
+  "id": "c072",
+  "en": "child",
+  "la": "puer, puerī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "līberī = children (pl.)"
+ },
+ {
+  "id": "c073",
+  "en": "church",
+  "la": "ecclēsia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c074",
+  "en": "circle",
+  "la": "circulus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c075",
+  "en": "city",
+  "la": "urbs, urbis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in urban"
+ },
+ {
+  "id": "c076",
+  "en": "clay",
+  "la": "argilla, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c077",
+  "en": "clock",
+  "la": "hōrologium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "hour-teller"
+ },
+ {
+  "id": "c078",
+  "en": "clothes",
+  "la": "vestīmenta, -ōrum",
+  "gram": "n2 pl",
+  "deck": "core",
+  "note": "as in vestments"
+ },
+ {
+  "id": "c079",
+  "en": "club",
+  "la": "sodālitās, -ātis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "fellowship"
+ },
+ {
+  "id": "c080",
+  "en": "coat",
+  "la": "paenula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman travel cloak"
+ },
+ {
+  "id": "c081",
+  "en": "coffee",
+  "la": "caffēum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c082",
+  "en": "cold",
+  "la": "frīgidus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in frigid"
+ },
+ {
+  "id": "c083",
+  "en": "color",
+  "la": "color, -ōris",
+  "gram": "m3",
+  "deck": "core"
+ },
+ {
+  "id": "c084",
+  "en": "computer",
+  "la": "computātrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1,
+  "note": "from computō, reckon"
+ },
+ {
+  "id": "c085",
+  "en": "consonant",
+  "la": "cōnsonāns, -antis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "grammar term"
+ },
+ {
+  "id": "c086",
+  "en": "contract",
+  "la": "pactum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in pact"
+ },
+ {
+  "id": "c087",
+  "en": "copper",
+  "la": "aes, aeris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "copper/bronze"
+ },
+ {
+  "id": "c088",
+  "en": "coin",
+  "la": "nummus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c089",
+  "en": "corn",
+  "la": "frūmentum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "grain"
+ },
+ {
+  "id": "c090",
+  "en": "corner",
+  "la": "angulus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in angle"
+ },
+ {
+  "id": "c091",
+  "en": "country",
+  "la": "patria, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "fatherland — as in patriot"
+ },
+ {
+  "id": "c092",
+  "en": "court",
+  "la": "iūdicium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in judicial"
+ },
+ {
+  "id": "c093",
+  "en": "cow",
+  "la": "vacca, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in vaccine (cowpox!)"
+ },
+ {
+  "id": "c094",
+  "en": "cup",
+  "la": "pōculum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c095",
+  "en": "curved",
+  "la": "curvus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c096",
+  "en": "dark",
+  "la": "obscūrus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c097",
+  "en": "daughter",
+  "la": "fīlia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in filial"
+ },
+ {
+  "id": "c098",
+  "en": "day",
+  "la": "diēs, diēī",
+  "gram": "m5",
+  "deck": "core",
+  "note": "5th declension"
+ },
+ {
+  "id": "c099",
+  "en": "deaf person",
+  "la": "surdus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in absurd"
+ },
+ {
+  "id": "c100",
+  "en": "december",
+  "la": "December, -bris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "10th month of old calendar"
+ },
+ {
+  "id": "c101",
+  "en": "diamond",
+  "la": "adamās, -antis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in adamant — unconquerable"
+ },
+ {
+  "id": "c102",
+  "en": "dinner",
+  "la": "cēna, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c103",
+  "en": "direction",
+  "la": "regiō, -ōnis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in region"
+ },
+ {
+  "id": "c104",
+  "en": "dirty",
+  "la": "sordidus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in sordid"
+ },
+ {
+  "id": "c105",
+  "en": "disease",
+  "la": "morbus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in morbid"
+ },
+ {
+  "id": "c106",
+  "en": "doctor",
+  "la": "medicus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c107",
+  "en": "dog",
+  "la": "canis, -is",
+  "gram": "m/f3",
+  "deck": "core",
+  "note": "as in canine"
+ },
+ {
+  "id": "c108",
+  "en": "dollar",
+  "la": "dollarium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c109",
+  "en": "door",
+  "la": "iānua, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "from Janus, god of doorways"
+ },
+ {
+  "id": "c110",
+  "en": "dot",
+  "la": "pūnctum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in punctuation"
+ },
+ {
+  "id": "c111",
+  "en": "down",
+  "la": "deorsum",
+  "gram": "adv",
+  "deck": "core"
+ },
+ {
+  "id": "c112",
+  "en": "dream",
+  "la": "somnium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in insomnia"
+ },
+ {
+  "id": "c113",
+  "en": "dress",
+  "la": "stola, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman matron's dress"
+ },
+ {
+  "id": "c114",
+  "en": "drug",
+  "la": "medicāmentum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c115",
+  "en": "dry",
+  "la": "siccus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in desiccated"
+ },
+ {
+  "id": "c116",
+  "en": "dust",
+  "la": "pulvis, -eris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in pulverize"
+ },
+ {
+  "id": "c117",
+  "en": "ear",
+  "la": "auris, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in aural"
+ },
+ {
+  "id": "c118",
+  "en": "east",
+  "la": "oriēns, -entis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "the rising (sun)"
+ },
+ {
+  "id": "c119",
+  "en": "edge",
+  "la": "margō, -inis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in margin"
+ },
+ {
+  "id": "c120",
+  "en": "egg",
+  "la": "ōvum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in oval"
+ },
+ {
+  "id": "c121",
+  "en": "eight",
+  "la": "octō",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c122",
+  "en": "eighteen",
+  "la": "duodēvīgintī",
+  "gram": "num",
+  "deck": "core",
+  "note": "two-from-twenty"
+ },
+ {
+  "id": "c123",
+  "en": "eighty",
+  "la": "octōgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c124",
+  "en": "electronic device",
+  "la": "īnstrūmentum ēlectronicum",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c125",
+  "en": "eleven",
+  "la": "ūndecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c126",
+  "en": "engine",
+  "la": "māchina, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c127",
+  "en": "evening",
+  "la": "vesper, -erī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in vespers"
+ },
+ {
+  "id": "c128",
+  "en": "expensive",
+  "la": "cārus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "also 'dear'"
+ },
+ {
+  "id": "c129",
+  "en": "eye",
+  "la": "oculus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in ocular"
+ },
+ {
+  "id": "c130",
+  "en": "face",
+  "la": "faciēs, -ēī",
+  "gram": "f5",
+  "deck": "core",
+  "note": "5th declension"
+ },
+ {
+  "id": "c131",
+  "en": "family",
+  "la": "familia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "the whole household"
+ },
+ {
+  "id": "c132",
+  "en": "famous",
+  "la": "clārus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "bright/famous"
+ },
+ {
+  "id": "c133",
+  "en": "electric fan",
+  "la": "flābellum ēlectricum",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "flābellum = classical hand fan"
+ },
+ {
+  "id": "c134",
+  "en": "farm",
+  "la": "praedium, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c135",
+  "en": "fast",
+  "la": "celer, -eris, -ere",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in accelerate"
+ },
+ {
+  "id": "c136",
+  "en": "father",
+  "la": "pater, patris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in paternal"
+ },
+ {
+  "id": "c137",
+  "en": "february",
+  "la": "Februārius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "month of purification"
+ },
+ {
+  "id": "c138",
+  "en": "female",
+  "la": "fēmineus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c139",
+  "en": "fifteen",
+  "la": "quīndecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c140",
+  "en": "fifty",
+  "la": "quīnquāgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c141",
+  "en": "finger",
+  "la": "digitus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in digit"
+ },
+ {
+  "id": "c142",
+  "en": "fire",
+  "la": "ignis, -is",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in ignite"
+ },
+ {
+  "id": "c143",
+  "en": "fish",
+  "la": "piscis, -is",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in Pisces"
+ },
+ {
+  "id": "c144",
+  "en": "floor",
+  "la": "pavīmentum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in pavement"
+ },
+ {
+  "id": "c145",
+  "en": "flower",
+  "la": "flōs, flōris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in floral"
+ },
+ {
+  "id": "c146",
+  "en": "food",
+  "la": "cibus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c147",
+  "en": "forest",
+  "la": "silva, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in Pennsylvania"
+ },
+ {
+  "id": "c148",
+  "en": "fork",
+  "la": "furca, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c149",
+  "en": "fourty",
+  "la": "quadrāgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c150",
+  "en": "four",
+  "la": "quattuor",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c151",
+  "en": "fourteen",
+  "la": "quattuordecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c152",
+  "en": "friday",
+  "la": "diēs Veneris",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of Venus — cf. French vendredi"
+ },
+ {
+  "id": "c153",
+  "en": "friend",
+  "la": "amīcus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "from amō, love"
+ },
+ {
+  "id": "c154",
+  "en": "front",
+  "la": "frōns, frontis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c155",
+  "en": "game",
+  "la": "lūdus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "game AND school!"
+ },
+ {
+  "id": "c156",
+  "en": "garden",
+  "la": "hortus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in horticulture"
+ },
+ {
+  "id": "c157",
+  "en": "gasoline",
+  "la": "benzīnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c158",
+  "en": "gift",
+  "la": "dōnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in donate"
+ },
+ {
+  "id": "c159",
+  "en": "girl",
+  "la": "puella, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c160",
+  "en": "paper",
+  "la": "charta, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in chart, card"
+ },
+ {
+  "id": "c161",
+  "en": "gold",
+  "la": "aurum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "symbol Au!"
+ },
+ {
+  "id": "c162",
+  "en": "good",
+  "la": "bonus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c163",
+  "en": "grandfather",
+  "la": "avus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c164",
+  "en": "grandmother",
+  "la": "avia, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c165",
+  "en": "grass",
+  "la": "herba, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in herb"
+ },
+ {
+  "id": "c166",
+  "en": "gray",
+  "la": "cānus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "gray-haired"
+ },
+ {
+  "id": "c167",
+  "en": "green",
+  "la": "viridis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in verdant"
+ },
+ {
+  "id": "c168",
+  "en": "ground",
+  "la": "humus, -ī",
+  "gram": "f2",
+  "deck": "core",
+  "note": "feminine! as in humble, exhume"
+ },
+ {
+  "id": "c169",
+  "en": "gun",
+  "la": "sclopētum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c170",
+  "en": "hair",
+  "la": "capillus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in capillary"
+ },
+ {
+  "id": "c171",
+  "en": "half",
+  "la": "dīmidium, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c172",
+  "en": "happy",
+  "la": "laetus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c173",
+  "en": "hard",
+  "la": "dūrus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in durable"
+ },
+ {
+  "id": "c174",
+  "en": "hat",
+  "la": "petasus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "traveler's hat — Mercury wears one"
+ },
+ {
+  "id": "c175",
+  "en": "head",
+  "la": "caput, capitis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in capital"
+ },
+ {
+  "id": "c176",
+  "en": "healthy",
+  "la": "sānus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in sane"
+ },
+ {
+  "id": "c177",
+  "en": "heart",
+  "la": "cor, cordis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in cordial, courage"
+ },
+ {
+  "id": "c178",
+  "en": "fever",
+  "la": "febris, -is",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c179",
+  "en": "heaven",
+  "la": "paradīsus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "caelum = sky/heaven too"
+ },
+ {
+  "id": "c180",
+  "en": "heavy",
+  "la": "gravis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in gravity"
+ },
+ {
+  "id": "c181",
+  "en": "hell",
+  "la": "īnfernus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in infernal"
+ },
+ {
+  "id": "c182",
+  "en": "hill",
+  "la": "collis, -is",
+  "gram": "m3",
+  "deck": "core",
+  "note": "Rome's seven hills: septem collēs"
+ },
+ {
+  "id": "c183",
+  "en": "hole",
+  "la": "forāmen, -inis",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c184",
+  "en": "horse",
+  "la": "equus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in equestrian"
+ },
+ {
+  "id": "c185",
+  "en": "hospital",
+  "la": "valētūdinārium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "real Roman army hospitals"
+ },
+ {
+  "id": "c186",
+  "en": "hot",
+  "la": "calidus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "cf. scald, cauldron"
+ },
+ {
+  "id": "c187",
+  "en": "hotel",
+  "la": "dēversōrium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "Roman roadside inn"
+ },
+ {
+  "id": "c188",
+  "en": "hour",
+  "la": "hōra, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c189",
+  "en": "house",
+  "la": "domus, -ūs",
+  "gram": "f4",
+  "deck": "core",
+  "note": "as in domestic"
+ },
+ {
+  "id": "c190",
+  "en": "human",
+  "la": "homō, hominis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in Homō sapiēns"
+ },
+ {
+  "id": "c191",
+  "en": "hundred",
+  "la": "centum",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in century, percent"
+ },
+ {
+  "id": "c192",
+  "en": "husband",
+  "la": "marītus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in marital"
+ },
+ {
+  "id": "c193",
+  "en": "ice",
+  "la": "glaciēs, -ēī",
+  "gram": "f5",
+  "deck": "core",
+  "note": "as in glacier"
+ },
+ {
+  "id": "c194",
+  "en": "image",
+  "la": "imāgō, -inis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c195",
+  "en": "inch",
+  "la": "ūncia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "a twelfth — also 'ounce'!"
+ },
+ {
+  "id": "c196",
+  "en": "injury",
+  "la": "vulnus, -eris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in vulnerable"
+ },
+ {
+  "id": "c197",
+  "en": "inside",
+  "la": "intus",
+  "gram": "adv",
+  "deck": "core"
+ },
+ {
+  "id": "c198",
+  "en": "island",
+  "la": "īnsula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in insulate, peninsula"
+ },
+ {
+  "id": "c199",
+  "en": "january",
+  "la": "Iānuārius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "Janus — looks both ways"
+ },
+ {
+  "id": "c200",
+  "en": "job",
+  "la": "opus, operis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in opera, operate"
+ },
+ {
+  "id": "c201",
+  "en": "juice",
+  "la": "sūcus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "cf. succulent"
+ },
+ {
+  "id": "c202",
+  "en": "july",
+  "la": "Iūlius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "named for Julius Caesar"
+ },
+ {
+  "id": "c203",
+  "en": "june",
+  "la": "Iūnius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "month of Juno"
+ },
+ {
+  "id": "c204",
+  "en": "key",
+  "la": "clāvis, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in clavicle, clef"
+ },
+ {
+  "id": "c205",
+  "en": "kilogram",
+  "la": "chīliogramma, -atis",
+  "gram": "n3",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c206",
+  "en": "king",
+  "la": "rēx, rēgis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in regal — Henle word"
+ },
+ {
+  "id": "c207",
+  "en": "kitchen",
+  "la": "culīna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in culinary"
+ },
+ {
+  "id": "c208",
+  "en": "knee",
+  "la": "genū, -ūs",
+  "gram": "n4",
+  "deck": "core",
+  "note": "as in genuflect"
+ },
+ {
+  "id": "c209",
+  "en": "knife",
+  "la": "culter, -trī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c210",
+  "en": "lake",
+  "la": "lacus, -ūs",
+  "gram": "m4",
+  "deck": "core",
+  "note": "as in lagoon"
+ },
+ {
+  "id": "c211",
+  "en": "lamp",
+  "la": "lucerna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "from lūx, light"
+ },
+ {
+  "id": "c212",
+  "en": "laptop",
+  "la": "computātrum portābile",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c213",
+  "en": "lawyer",
+  "la": "advocātus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "one called to your side"
+ },
+ {
+  "id": "c214",
+  "en": "leaf",
+  "la": "folium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in foliage, portfolio"
+ },
+ {
+  "id": "c215",
+  "en": "lemon",
+  "la": "cītreum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "citrus fruit"
+ },
+ {
+  "id": "c216",
+  "en": "library",
+  "la": "bibliothēca, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c217",
+  "en": "light",
+  "la": "lūx, lūcis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in lucid — fiat lūx!"
+ },
+ {
+  "id": "c218",
+  "en": "lips",
+  "la": "labra, -ōrum",
+  "gram": "n2 pl",
+  "deck": "core"
+ },
+ {
+  "id": "c219",
+  "en": "location",
+  "la": "locus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in local"
+ },
+ {
+  "id": "c220",
+  "en": "loose",
+  "la": "laxus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in relax"
+ },
+ {
+  "id": "c221",
+  "en": "loud",
+  "la": "clāmōsus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in clamor"
+ },
+ {
+  "id": "c222",
+  "en": "lunch",
+  "la": "prandium, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c223",
+  "en": "magazine",
+  "la": "libellus periodicus",
+  "gram": "m2 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "little periodic book"
+ },
+ {
+  "id": "c224",
+  "en": "male",
+  "la": "māsculus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c225",
+  "en": "man",
+  "la": "vir, virī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in virtue — Henle word"
+ },
+ {
+  "id": "c226",
+  "en": "manager",
+  "la": "prōcūrātor, -ōris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "a real Roman job"
+ },
+ {
+  "id": "c227",
+  "en": "map",
+  "la": "tabula geōgraphica",
+  "gram": "f1 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c228",
+  "en": "march",
+  "la": "Mārtius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "month of Mars"
+ },
+ {
+  "id": "c229",
+  "en": "(town) market",
+  "la": "forum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "THE Roman market square"
+ },
+ {
+  "id": "c230",
+  "en": "marriage",
+  "la": "mātrimōnium, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c231",
+  "en": "material",
+  "la": "māteria, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c232",
+  "en": "may",
+  "la": "Māius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "month of Maia"
+ },
+ {
+  "id": "c233",
+  "en": "mean spirited",
+  "la": "malignus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in malign"
+ },
+ {
+  "id": "c234",
+  "en": "medicine",
+  "la": "medicīna, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c235",
+  "en": "metal",
+  "la": "metallum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c236",
+  "en": "meter",
+  "la": "metrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1,
+  "note": "as unit of length"
+ },
+ {
+  "id": "c237",
+  "en": "milk",
+  "la": "lac, lactis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in lactose"
+ },
+ {
+  "id": "c238",
+  "en": "one million",
+  "la": "mīliō, -ōnis",
+  "gram": "m3",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c239",
+  "en": "minute",
+  "la": "minūtum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "medieval Latin"
+ },
+ {
+  "id": "c240",
+  "en": "monday",
+  "la": "diēs Lūnae",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of the Moon"
+ },
+ {
+  "id": "c241",
+  "en": "money",
+  "la": "pecūnia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "from pecus, cattle — wealth on the hoof"
+ },
+ {
+  "id": "c242",
+  "en": "moon",
+  "la": "lūna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in lunar"
+ },
+ {
+  "id": "c243",
+  "en": "morning",
+  "la": "māne",
+  "gram": "n indecl",
+  "deck": "core"
+ },
+ {
+  "id": "c244",
+  "en": "mother",
+  "la": "māter, mātris",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in maternal"
+ },
+ {
+  "id": "c245",
+  "en": "mountain",
+  "la": "mōns, montis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in Montana"
+ },
+ {
+  "id": "c246",
+  "en": "mouse",
+  "la": "mūs, mūris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in muscle — 'little mouse'"
+ },
+ {
+  "id": "c247",
+  "en": "mouth",
+  "la": "ōs, ōris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "long ō — vs os, ossis bone!"
+ },
+ {
+  "id": "c248",
+  "en": "movie",
+  "la": "pellīcula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1,
+  "note": "little skin → film"
+ },
+ {
+  "id": "c249",
+  "en": "murder",
+  "la": "homicīdium, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c250",
+  "en": "music",
+  "la": "mūsica, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "art of the Muses"
+ },
+ {
+  "id": "c251",
+  "en": "narrow",
+  "la": "angustus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in anguish"
+ },
+ {
+  "id": "c252",
+  "en": "nature",
+  "la": "nātūra, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c253",
+  "en": "neck",
+  "la": "collum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in collar"
+ },
+ {
+  "id": "c254",
+  "en": "needle",
+  "la": "acus, -ūs",
+  "gram": "f4",
+  "deck": "core",
+  "note": "as in acute"
+ },
+ {
+  "id": "c255",
+  "en": "neighbor",
+  "la": "vīcīnus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in vicinity"
+ },
+ {
+  "id": "c256",
+  "en": "network",
+  "la": "rēte, -is",
+  "gram": "n3",
+  "deck": "core",
+  "note": "net — the internet is rēte ūniversāle"
+ },
+ {
+  "id": "c257",
+  "en": "new",
+  "la": "novus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in novel"
+ },
+ {
+  "id": "c258",
+  "en": "newspaper",
+  "la": "ācta diūrna",
+  "gram": "n2 pl",
+  "deck": "core",
+  "note": "Caesar's actual daily gazette"
+ },
+ {
+  "id": "c259",
+  "en": "nice",
+  "la": "suāvis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in suave"
+ },
+ {
+  "id": "c260",
+  "en": "nine",
+  "la": "novem",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in November"
+ },
+ {
+  "id": "c261",
+  "en": "nineteen",
+  "la": "ūndēvīgintī",
+  "gram": "num",
+  "deck": "core",
+  "note": "one-from-twenty"
+ },
+ {
+  "id": "c262",
+  "en": "ninety",
+  "la": "nōnāgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c263",
+  "en": "no",
+  "la": "minimē",
+  "gram": "adv",
+  "deck": "core",
+  "note": "lit. 'least of all'"
+ },
+ {
+  "id": "c264",
+  "en": "north",
+  "la": "septentriō, -ōnis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "the seven plow-oxen (Big Dipper)"
+ },
+ {
+  "id": "c265",
+  "en": "nose",
+  "la": "nāsus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in nasal"
+ },
+ {
+  "id": "c266",
+  "en": "november",
+  "la": "November, -bris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "9th month of old calendar"
+ },
+ {
+  "id": "c267",
+  "en": "nuclear",
+  "la": "nucleāris, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "neo": 1,
+  "note": "from nucleus, kernel"
+ },
+ {
+  "id": "c268",
+  "en": "number",
+  "la": "numerus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c269",
+  "en": "ocean",
+  "la": "ōceanus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c270",
+  "en": "october",
+  "la": "Octōber, -bris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "8th month of old calendar"
+ },
+ {
+  "id": "c271",
+  "en": "office",
+  "la": "tablīnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "the Roman home office"
+ },
+ {
+  "id": "c272",
+  "en": "one",
+  "la": "ūnus, -a, -um",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in unite"
+ },
+ {
+  "id": "c273",
+  "en": "orange",
+  "la": "mālum aurantium",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "the fruit"
+ },
+ {
+  "id": "c274",
+  "en": "outside",
+  "la": "forīs",
+  "gram": "adv",
+  "deck": "core",
+  "note": "as in foreign"
+ },
+ {
+  "id": "c275",
+  "en": "page",
+  "la": "pāgina, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c276",
+  "en": "pain",
+  "la": "dolor, -ōris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in dolorous"
+ },
+ {
+  "id": "c277",
+  "en": "paint",
+  "la": "pigmentum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in pigment"
+ },
+ {
+  "id": "c278",
+  "en": "parent",
+  "la": "parēns, -entis",
+  "gram": "m/f3",
+  "deck": "core"
+ },
+ {
+  "id": "c279",
+  "en": "patient",
+  "la": "aegrōtus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "sick person"
+ },
+ {
+  "id": "c280",
+  "en": "pattern",
+  "la": "exemplar, -āris",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c281",
+  "en": "peace",
+  "la": "pāx, pācis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "Pāx Rōmāna"
+ },
+ {
+  "id": "c282",
+  "en": "pen",
+  "la": "stilus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in style"
+ },
+ {
+  "id": "c283",
+  "en": "pencil",
+  "la": "graphis, -idis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in graphite"
+ },
+ {
+  "id": "c284",
+  "en": "person",
+  "la": "persōna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "originally an actor's mask"
+ },
+ {
+  "id": "c285",
+  "en": "photograph",
+  "la": "phōtographēma, -atis",
+  "gram": "n3",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c286",
+  "en": "pig",
+  "la": "porcus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in pork"
+ },
+ {
+  "id": "c287",
+  "en": "pink",
+  "la": "roseus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "rose-colored"
+ },
+ {
+  "id": "c288",
+  "en": "plane",
+  "la": "āeroplānum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c289",
+  "en": "plant",
+  "la": "planta, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c290",
+  "en": "plastic",
+  "la": "plasticum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c291",
+  "en": "plate",
+  "la": "patella, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "also your kneecap!"
+ },
+ {
+  "id": "c292",
+  "en": "pocket",
+  "la": "loculus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "little place"
+ },
+ {
+  "id": "c293",
+  "en": "poison",
+  "la": "venēnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in venom"
+ },
+ {
+  "id": "c294",
+  "en": "police",
+  "la": "vigilēs, -um",
+  "gram": "m3 pl",
+  "deck": "core",
+  "note": "Rome's real night watch"
+ },
+ {
+  "id": "c295",
+  "en": "pool",
+  "la": "piscīna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "originally a fish pond"
+ },
+ {
+  "id": "c296",
+  "en": "poor",
+  "la": "pauper, -eris",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in poverty"
+ },
+ {
+  "id": "c297",
+  "en": "pork",
+  "la": "porcīna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "carō porcīna"
+ },
+ {
+  "id": "c298",
+  "en": "president",
+  "la": "praeses, -idis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "one who sits before"
+ },
+ {
+  "id": "c299",
+  "en": "price",
+  "la": "pretium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in precious"
+ },
+ {
+  "id": "c300",
+  "en": "priest",
+  "la": "sacerdōs, -ōtis",
+  "gram": "m/f3",
+  "deck": "core",
+  "note": "as in sacred"
+ },
+ {
+  "id": "c301",
+  "en": "prison",
+  "la": "carcer, -eris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in incarcerate"
+ },
+ {
+  "id": "c302",
+  "en": "queen",
+  "la": "rēgīna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Henle word"
+ },
+ {
+  "id": "c303",
+  "en": "quiet",
+  "la": "quiētus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c304",
+  "en": "radio",
+  "la": "radiophōnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c305",
+  "en": "rain",
+  "la": "pluvia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "cf. pluvial"
+ },
+ {
+  "id": "c306",
+  "en": "red",
+  "la": "ruber, -bra, -brum",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in ruby"
+ },
+ {
+  "id": "c307",
+  "en": "religion",
+  "la": "religiō, -ōnis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c308",
+  "en": "reporter",
+  "la": "diurnārius, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "neo": 1,
+  "note": "from ācta diūrna"
+ },
+ {
+  "id": "c309",
+  "en": "restaurant",
+  "la": "caupōna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman tavern"
+ },
+ {
+  "id": "c310",
+  "en": "rice",
+  "la": "orȳza, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "attested in Horace"
+ },
+ {
+  "id": "c311",
+  "en": "rich",
+  "la": "dīves, -itis",
+  "gram": "adj3",
+  "deck": "core"
+ },
+ {
+  "id": "c312",
+  "en": "ring",
+  "la": "ānulus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in annular"
+ },
+ {
+  "id": "c313",
+  "en": "river",
+  "la": "flūmen, -inis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in flume"
+ },
+ {
+  "id": "c314",
+  "en": "roof",
+  "la": "tēctum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in protect — covered over"
+ },
+ {
+  "id": "c315",
+  "en": "root",
+  "la": "rādīx, -īcis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in radical, radish"
+ },
+ {
+  "id": "c316",
+  "en": "sad",
+  "la": "trīstis, -e",
+  "gram": "adj3",
+  "deck": "core"
+ },
+ {
+  "id": "c317",
+  "en": "salt",
+  "la": "sāl, salis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in salary — soldiers' salt money"
+ },
+ {
+  "id": "c318",
+  "en": "sand",
+  "la": "harēna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "the arena was sand-floored"
+ },
+ {
+  "id": "c319",
+  "en": "saturday",
+  "la": "diēs Sāturnī",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of Saturn"
+ },
+ {
+  "id": "c320",
+  "en": "school",
+  "la": "schola, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "orig. 'leisure' in Greek!"
+ },
+ {
+  "id": "c321",
+  "en": "science",
+  "la": "scientia, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "from sciō, know"
+ },
+ {
+  "id": "c322",
+  "en": "screen",
+  "la": "vīsōrium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1,
+  "note": "from vīsus, sight"
+ },
+ {
+  "id": "c323",
+  "en": "sea",
+  "la": "mare, -is",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in marine — Henle word"
+ },
+ {
+  "id": "c324",
+  "en": "season",
+  "la": "tempus annī",
+  "gram": "n3 phrase",
+  "deck": "core",
+  "note": "time of the year"
+ },
+ {
+  "id": "c325",
+  "en": "secretary",
+  "la": "scrība, -ae",
+  "gram": "m1",
+  "deck": "core",
+  "note": "masculine 1st declension!"
+ },
+ {
+  "id": "c326",
+  "en": "seed",
+  "la": "sēmen, -inis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in disseminate"
+ },
+ {
+  "id": "c327",
+  "en": "september",
+  "la": "September, -bris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "7th month of old calendar"
+ },
+ {
+  "id": "c328",
+  "en": "seven",
+  "la": "septem",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c329",
+  "en": "seventeen",
+  "la": "septendecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c330",
+  "en": "seventy",
+  "la": "septuāgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c331",
+  "en": "shallow",
+  "la": "vadōsus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "full of shallows"
+ },
+ {
+  "id": "c332",
+  "en": "ship",
+  "la": "nāvis, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in navy"
+ },
+ {
+  "id": "c333",
+  "en": "shirt",
+  "la": "tunica, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c334",
+  "en": "shoes",
+  "la": "calceī, -ōrum",
+  "gram": "m2 pl",
+  "deck": "core"
+ },
+ {
+  "id": "c335",
+  "en": "shoulder",
+  "la": "umerus, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c336",
+  "en": "side",
+  "la": "latus, -eris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in lateral — short a vs lātus wide"
+ },
+ {
+  "id": "c337",
+  "en": "sign",
+  "la": "signum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c338",
+  "en": "silver",
+  "la": "argentum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "symbol Ag — Argentina!"
+ },
+ {
+  "id": "c339",
+  "en": "(older) sister",
+  "la": "soror nātū maior",
+  "gram": "f3 phrase",
+  "deck": "core"
+ },
+ {
+  "id": "c340",
+  "en": "(little) sister",
+  "la": "soror nātū minor",
+  "gram": "f3 phrase",
+  "deck": "core"
+ },
+ {
+  "id": "c341",
+  "en": "six",
+  "la": "sex",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c342",
+  "en": "sixteen",
+  "la": "sēdecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c343",
+  "en": "sixty",
+  "la": "sexāgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c344",
+  "en": "skin",
+  "la": "cutis, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in cuticle"
+ },
+ {
+  "id": "c345",
+  "en": "skirt",
+  "la": "gunna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1,
+  "note": "medieval Latin — cf. 'gown'"
+ },
+ {
+  "id": "c346",
+  "en": "sky",
+  "la": "caelum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in celestial"
+ },
+ {
+  "id": "c347",
+  "en": "slow",
+  "la": "tardus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in tardy"
+ },
+ {
+  "id": "c348",
+  "en": "small",
+  "la": "parvus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c349",
+  "en": "snow",
+  "la": "nix, nivis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "cf. Nevada"
+ },
+ {
+  "id": "c350",
+  "en": "soap",
+  "la": "sāpō, -ōnis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "attested in Pliny"
+ },
+ {
+  "id": "c351",
+  "en": "soft",
+  "la": "mollis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in mollify"
+ },
+ {
+  "id": "c352",
+  "en": "soil",
+  "la": "solum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c353",
+  "en": "soldier",
+  "la": "mīles, -itis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in military"
+ },
+ {
+  "id": "c354",
+  "en": "son",
+  "la": "fīlius, -ī",
+  "gram": "m2",
+  "deck": "core"
+ },
+ {
+  "id": "c355",
+  "en": "song",
+  "la": "carmen, -inis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in Carmina Burana"
+ },
+ {
+  "id": "c356",
+  "en": "sound",
+  "la": "sonus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in sonic"
+ },
+ {
+  "id": "c357",
+  "en": "soup",
+  "la": "iūs, iūris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "broth — same word as LAW. Roman joke material"
+ },
+ {
+  "id": "c358",
+  "en": "south",
+  "la": "merīdiēs, -ēī",
+  "gram": "m5",
+  "deck": "core",
+  "note": "midday direction"
+ },
+ {
+  "id": "c359",
+  "en": "outerspace",
+  "la": "spatium cosmicum",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c360",
+  "en": "spoon",
+  "la": "cochlear, -āris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "from cochlea, snail shell"
+ },
+ {
+  "id": "c361",
+  "en": "sport",
+  "la": "athlētica, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c362",
+  "en": "square",
+  "la": "quadrātum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c363",
+  "en": "stain",
+  "la": "macula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in immaculate — no stain"
+ },
+ {
+  "id": "c364",
+  "en": "star",
+  "la": "stēlla, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in stellar, constellation"
+ },
+ {
+  "id": "c365",
+  "en": "stone",
+  "la": "lapis, -idis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in lapidary"
+ },
+ {
+  "id": "c366",
+  "en": "shop",
+  "la": "taberna, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in tavern"
+ },
+ {
+  "id": "c367",
+  "en": "street",
+  "la": "via, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Via Appia — all roads lead to Rome"
+ },
+ {
+  "id": "c368",
+  "en": "strong",
+  "la": "fortis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in fortitude — Henle word"
+ },
+ {
+  "id": "c369",
+  "en": "student",
+  "la": "discipulus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in disciple"
+ },
+ {
+  "id": "c370",
+  "en": "sugar",
+  "la": "saccharum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "attested in Pliny"
+ },
+ {
+  "id": "c371",
+  "en": "suit",
+  "la": "toga, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "THE Roman formal suit"
+ },
+ {
+  "id": "c372",
+  "en": "summer",
+  "la": "aestās, -ātis",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c373",
+  "en": "sun",
+  "la": "sōl, sōlis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in solar"
+ },
+ {
+  "id": "c374",
+  "en": "sunday",
+  "la": "diēs Sōlis",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of the Sun"
+ },
+ {
+  "id": "c375",
+  "en": "sweat",
+  "la": "sūdor, -ōris",
+  "gram": "m3",
+  "deck": "core"
+ },
+ {
+  "id": "c376",
+  "en": "t-shirt",
+  "la": "tunicula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1,
+  "note": "little tunic"
+ },
+ {
+  "id": "c377",
+  "en": "table",
+  "la": "mēnsa, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "the classic first Latin noun"
+ },
+ {
+  "id": "c378",
+  "en": "tall",
+  "la": "prōcērus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "of persons"
+ },
+ {
+  "id": "c379",
+  "en": "tea",
+  "la": "thea, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c380",
+  "en": "teacher",
+  "la": "magister, -trī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "magistra (f) — as in magistrate"
+ },
+ {
+  "id": "c381",
+  "en": "team",
+  "la": "turma, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman cavalry squadron"
+ },
+ {
+  "id": "c382",
+  "en": "teardrop",
+  "la": "lacrima, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in lacrimose"
+ },
+ {
+  "id": "c383",
+  "en": "technology",
+  "la": "ars technica",
+  "gram": "f3 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c384",
+  "en": "telephone",
+  "la": "tēlephōnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1,
+  "note": "far-sound"
+ },
+ {
+  "id": "c385",
+  "en": "television",
+  "la": "tēlevīsiō, -ōnis",
+  "gram": "f3",
+  "deck": "core",
+  "neo": 1,
+  "note": "far-sight"
+ },
+ {
+  "id": "c386",
+  "en": "ten",
+  "la": "decem",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in decimal, December"
+ },
+ {
+  "id": "c387",
+  "en": "(movie) theater",
+  "la": "theātrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c388",
+  "en": "they",
+  "la": "eī / eae / ea",
+  "gram": "pron",
+  "deck": "core",
+  "note": "m / f / n"
+ },
+ {
+  "id": "c389",
+  "en": "thick",
+  "la": "crassus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in crass"
+ },
+ {
+  "id": "c390",
+  "en": "thirteen",
+  "la": "tredecim",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c391",
+  "en": "thirty",
+  "la": "trīgintā",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c392",
+  "en": "thousand",
+  "la": "mīlle",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in mile — 1000 paces"
+ },
+ {
+  "id": "c393",
+  "en": "three",
+  "la": "trēs, tria",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c394",
+  "en": "thursday",
+  "la": "diēs Iovis",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of Jupiter — cf. French jeudi"
+ },
+ {
+  "id": "c395",
+  "en": "tight",
+  "la": "strictus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in strict"
+ },
+ {
+  "id": "c396",
+  "en": "time",
+  "la": "tempus, -oris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in temporal"
+ },
+ {
+  "id": "c397",
+  "en": "tongue",
+  "la": "lingua, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "tongue AND language"
+ },
+ {
+  "id": "c398",
+  "en": "tool",
+  "la": "īnstrūmentum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c399",
+  "en": "tooth",
+  "la": "dēns, dentis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in dental"
+ },
+ {
+  "id": "c400",
+  "en": "top",
+  "la": "summum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in summit"
+ },
+ {
+  "id": "c401",
+  "en": "town",
+  "la": "oppidum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "Henle word"
+ },
+ {
+  "id": "c402",
+  "en": "train",
+  "la": "trāmen, -inis",
+  "gram": "n3",
+  "deck": "core",
+  "neo": 1,
+  "note": "living-Latin coinage"
+ },
+ {
+  "id": "c403",
+  "en": "train station",
+  "la": "statiō trāminum",
+  "gram": "f3 phrase",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c404",
+  "en": "transportation",
+  "la": "vectūra, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c405",
+  "en": "tree",
+  "la": "arbor, -oris",
+  "gram": "f3",
+  "deck": "core",
+  "note": "feminine! as in Arbor Day"
+ },
+ {
+  "id": "c406",
+  "en": "truck",
+  "la": "autocarrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "neo": 1,
+  "note": "carrus = classical wagon"
+ },
+ {
+  "id": "c407",
+  "en": "tuesday",
+  "la": "diēs Mārtis",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of Mars — cf. French mardi"
+ },
+ {
+  "id": "c408",
+  "en": "twelve",
+  "la": "duodecim",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in duodecimal"
+ },
+ {
+  "id": "c409",
+  "en": "twenty",
+  "la": "vīgintī",
+  "gram": "num",
+  "deck": "core"
+ },
+ {
+  "id": "c410",
+  "en": "two",
+  "la": "duo, duae, duo",
+  "gram": "num",
+  "deck": "core",
+  "note": "as in dual"
+ },
+ {
+  "id": "c411",
+  "en": "university",
+  "la": "ūniversitās, -ātis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "medieval Latin"
+ },
+ {
+  "id": "c412",
+  "en": "up",
+  "la": "sūrsum",
+  "gram": "adv",
+  "deck": "core"
+ },
+ {
+  "id": "c413",
+  "en": "valley",
+  "la": "vallēs, -is",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c414",
+  "en": "verb",
+  "la": "verbum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "also just 'word'"
+ },
+ {
+  "id": "c415",
+  "en": "victim",
+  "la": "victima, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c416",
+  "en": "voice",
+  "la": "vōx, vōcis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in vocal"
+ },
+ {
+  "id": "c417",
+  "en": "vowel",
+  "la": "vōcālis, -is",
+  "gram": "f3",
+  "deck": "core",
+  "note": "grammar term"
+ },
+ {
+  "id": "c418",
+  "en": "waiter",
+  "la": "minister, -trī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "attendant — as in minister!"
+ },
+ {
+  "id": "c419",
+  "en": "wall",
+  "la": "mūrus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in mural"
+ },
+ {
+  "id": "c420",
+  "en": "war",
+  "la": "bellum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in belligerent — Henle word"
+ },
+ {
+  "id": "c421",
+  "en": "warm",
+  "la": "tepidus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in tepid"
+ },
+ {
+  "id": "c422",
+  "en": "water",
+  "la": "aqua, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in aquarium — Henle word"
+ },
+ {
+  "id": "c423",
+  "en": "wave",
+  "la": "unda, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in undulate"
+ },
+ {
+  "id": "c424",
+  "en": "we",
+  "la": "nōs",
+  "gram": "pron",
+  "deck": "core"
+ },
+ {
+  "id": "c425",
+  "en": "weak",
+  "la": "īnfīrmus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in infirmary"
+ },
+ {
+  "id": "c426",
+  "en": "wednesday",
+  "la": "diēs Mercuriī",
+  "gram": "m5 phrase",
+  "deck": "core",
+  "note": "day of Mercury — cf. French mercredi"
+ },
+ {
+  "id": "c427",
+  "en": "week",
+  "la": "hebdomas, -adis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "Greek loan, late Latin"
+ },
+ {
+  "id": "c428",
+  "en": "weight",
+  "la": "pondus, -eris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in ponderous"
+ },
+ {
+  "id": "c429",
+  "en": "west",
+  "la": "occidēns, -entis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "the falling (sun)"
+ },
+ {
+  "id": "c430",
+  "en": "white",
+  "la": "albus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in albino, album"
+ },
+ {
+  "id": "c431",
+  "en": "wide",
+  "la": "lātus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "long ā — vs latus, side"
+ },
+ {
+  "id": "c432",
+  "en": "wife",
+  "la": "uxor, -ōris",
+  "gram": "f3",
+  "deck": "core"
+ },
+ {
+  "id": "c433",
+  "en": "wind",
+  "la": "ventus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in ventilate"
+ },
+ {
+  "id": "c434",
+  "en": "window",
+  "la": "fenestra, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in defenestrate"
+ },
+ {
+  "id": "c435",
+  "en": "wine",
+  "la": "vīnum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "as in vine"
+ },
+ {
+  "id": "c436",
+  "en": "wing",
+  "la": "āla, -ae",
+  "gram": "f1",
+  "deck": "core"
+ },
+ {
+  "id": "c437",
+  "en": "winter",
+  "la": "hiems, hiemis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "cf. hibernate"
+ },
+ {
+  "id": "c438",
+  "en": "woman",
+  "la": "fēmina, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in feminine"
+ },
+ {
+  "id": "c439",
+  "en": "wood",
+  "la": "lignum, -ī",
+  "gram": "n2",
+  "deck": "core"
+ },
+ {
+  "id": "c440",
+  "en": "world",
+  "la": "mundus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "also means 'clean, elegant'!"
+ },
+ {
+  "id": "c441",
+  "en": "year",
+  "la": "annus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "as in annual"
+ },
+ {
+  "id": "c442",
+  "en": "yellow",
+  "la": "flāvus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c443",
+  "en": "yes",
+  "la": "ita vērō",
+  "gram": "adv",
+  "deck": "core",
+  "note": "'thus truly' — Latin has no single word for yes"
+ },
+ {
+  "id": "c444",
+  "en": "you",
+  "la": "tū / vōs",
+  "gram": "pron",
+  "deck": "core",
+  "note": "singular / plural"
+ },
+ {
+  "id": "c445",
+  "en": "young",
+  "la": "iuvenis, -is",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in juvenile"
+ },
+ {
+  "id": "c446",
+  "en": "zero",
+  "la": "nihil",
+  "gram": "n indecl",
+  "deck": "core",
+  "note": "nothing — the numeral came later (zephirum)"
+ },
+ {
+  "id": "c447",
+  "en": "attack (noun",
+  "la": "impetus, -ūs",
+  "gram": "m4",
+  "deck": "core",
+  "note": "as in impetuous"
+ },
+ {
+  "id": "c448",
+  "en": "back",
+  "la": "retrō",
+  "gram": "adv",
+  "deck": "core",
+  "note": "backwards — as in retrograde"
+ },
+ {
+  "id": "c449",
+  "en": "bar",
+  "la": "taberna vīnāria",
+  "gram": "f1 phrase",
+  "deck": "core",
+  "note": "wine shop"
+ },
+ {
+  "id": "c450",
+  "en": "to beat",
+  "la": "pulsō, pulsāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in pulse"
+ },
+ {
+  "id": "c451",
+  "en": "to bend",
+  "la": "flectō, flectere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in flexible"
+ },
+ {
+  "id": "c452",
+  "en": "to break",
+  "la": "frangō, frangere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in fragile, fracture"
+ },
+ {
+  "id": "c453",
+  "en": "to build",
+  "la": "aedificō, aedificāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in edifice"
+ },
+ {
+  "id": "c454",
+  "en": "burn",
+  "la": "ūrō, ūrere",
+  "gram": "v3",
+  "deck": "core"
+ },
+ {
+  "id": "c455",
+  "en": "to buy",
+  "la": "emō, emere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "caveat ēmptor — buyer beware!"
+ },
+ {
+  "id": "c456",
+  "en": "to call",
+  "la": "vocō, vocāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in vocation — Henle verb"
+ },
+ {
+  "id": "c457",
+  "en": "to carry",
+  "la": "portō, portāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in transport — Henle verb"
+ },
+ {
+  "id": "c458",
+  "en": "to catch",
+  "la": "capiō, capere",
+  "gram": "v3io",
+  "deck": "core",
+  "note": "as in capture"
+ },
+ {
+  "id": "c459",
+  "en": "to clean",
+  "la": "pūrgō, pūrgāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in purge"
+ },
+ {
+  "id": "c460",
+  "en": "to close",
+  "la": "claudō, claudere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in include, exclude"
+ },
+ {
+  "id": "c461",
+  "en": "to cook",
+  "la": "coquō, coquere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "cf. concoct"
+ },
+ {
+  "id": "c462",
+  "en": "cool",
+  "la": "frīgidulus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "slightly cold"
+ },
+ {
+  "id": "c463",
+  "en": "to count",
+  "la": "numerō, numerāre",
+  "gram": "v1",
+  "deck": "core"
+ },
+ {
+  "id": "c464",
+  "en": "crowd",
+  "la": "turba, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in turbulent"
+ },
+ {
+  "id": "c465",
+  "en": "to cry",
+  "la": "fleō, flēre",
+  "gram": "v2",
+  "deck": "core"
+ },
+ {
+  "id": "c466",
+  "en": "to cut",
+  "la": "secō, secāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in section, dissect"
+ },
+ {
+  "id": "c467",
+  "en": "to dance",
+  "la": "saltō, saltāre",
+  "gram": "v1",
+  "deck": "core"
+ },
+ {
+  "id": "c468",
+  "en": "date",
+  "la": "diēs cōnstitūta",
+  "gram": "f5 phrase",
+  "deck": "core",
+  "note": "appointed day"
+ },
+ {
+  "id": "c469",
+  "en": "to die",
+  "la": "morior, morī",
+  "gram": "v3io dep",
+  "deck": "core",
+  "note": "deponent! as in mortal"
+ },
+ {
+  "id": "c470",
+  "en": "deep",
+  "la": "profundus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in profound"
+ },
+ {
+  "id": "c471",
+  "en": "to dig",
+  "la": "fodiō, fodere",
+  "gram": "v3io",
+  "deck": "core"
+ },
+ {
+  "id": "c472",
+  "en": "to draw",
+  "la": "dēlīneō, dēlīneāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in delineate"
+ },
+ {
+  "id": "c473",
+  "en": "to drink",
+  "la": "bibō, bibere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in imbibe"
+ },
+ {
+  "id": "c474",
+  "en": "to drive",
+  "la": "gubernō, gubernāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "steer — as in govern!"
+ },
+ {
+  "id": "c475",
+  "en": "earth",
+  "la": "terra, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "THE Henle/CC first noun — terra firma"
+ },
+ {
+  "id": "c476",
+  "en": "to eat",
+  "la": "edō, edere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in edible"
+ },
+ {
+  "id": "c477",
+  "en": "energy",
+  "la": "vīs, vīs",
+  "gram": "f3 irr",
+  "deck": "core",
+  "note": "force/power — irregular noun"
+ },
+ {
+  "id": "c478",
+  "en": "to exercise",
+  "la": "exerceō, exercēre",
+  "gram": "v2",
+  "deck": "core"
+ },
+ {
+  "id": "c479",
+  "en": "to explode",
+  "la": "displōdō, displōdere",
+  "gram": "v3",
+  "deck": "core"
+ },
+ {
+  "id": "c480",
+  "en": "fall",
+  "la": "autumnus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "the season"
+ },
+ {
+  "id": "c481",
+  "en": "to fall (tumble)",
+  "la": "cadō, cadere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in cascade, decadent"
+ },
+ {
+  "id": "c482",
+  "en": "fan",
+  "la": "fautor, -ōris",
+  "gram": "m3",
+  "deck": "core",
+  "note": "supporter — as in favor"
+ },
+ {
+  "id": "c483",
+  "en": "to feed (an animal)",
+  "la": "pāscō, pāscere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in pasture"
+ },
+ {
+  "id": "c484",
+  "en": "fifth",
+  "la": "quīntus, -a, -um",
+  "gram": "num ord",
+  "deck": "core",
+  "note": "the name Quintus!"
+ },
+ {
+  "id": "c485",
+  "en": "to fight",
+  "la": "pugnō, pugnāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in pugnacious — Henle verb"
+ },
+ {
+  "id": "c486",
+  "en": "to find",
+  "la": "inveniō, invenīre",
+  "gram": "v4",
+  "deck": "core",
+  "note": "as in invent — come upon"
+ },
+ {
+  "id": "c487",
+  "en": "1st",
+  "la": "prīmus, -a, -um",
+  "gram": "num ord",
+  "deck": "core",
+  "note": "as in prime"
+ },
+ {
+  "id": "c488",
+  "en": "to fly",
+  "la": "volō, volāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "vs volō, velle = to want!"
+ },
+ {
+  "id": "c489",
+  "en": "to follow",
+  "la": "sequor, sequī",
+  "gram": "v3 dep",
+  "deck": "core",
+  "note": "deponent! as in sequence"
+ },
+ {
+  "id": "c490",
+  "en": "foot",
+  "la": "pēs, pedis",
+  "gram": "m3",
+  "deck": "core",
+  "note": "as in pedal, pedestrian"
+ },
+ {
+  "id": "c491",
+  "en": "feet",
+  "la": "pedēs",
+  "gram": "m3 pl",
+  "deck": "core"
+ },
+ {
+  "id": "c492",
+  "en": "fourth",
+  "la": "quārtus, -a, -um",
+  "gram": "num ord",
+  "deck": "core",
+  "note": "as in quart"
+ },
+ {
+  "id": "c493",
+  "en": "glass",
+  "la": "vitrum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "cf. vitreous"
+ },
+ {
+  "id": "c494",
+  "en": "to go",
+  "la": "eō, īre",
+  "gram": "v irr",
+  "deck": "core",
+  "note": "as in exit — irregular"
+ },
+ {
+  "id": "c495",
+  "en": "to grow",
+  "la": "crēscō, crēscere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in crescent, crescendo"
+ },
+ {
+  "id": "c496",
+  "en": "to hang up",
+  "la": "suspendō, suspendere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in suspend"
+ },
+ {
+  "id": "c497",
+  "en": "he",
+  "la": "is / ille",
+  "gram": "pron",
+  "deck": "core"
+ },
+ {
+  "id": "c498",
+  "en": "to hear",
+  "la": "audiō, audīre",
+  "gram": "v4",
+  "deck": "core",
+  "note": "as in audio — Henle verb"
+ },
+ {
+  "id": "c499",
+  "en": "high",
+  "la": "altus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in altitude"
+ },
+ {
+  "id": "c500",
+  "en": "i (formal",
+  "la": "ego",
+  "gram": "pron",
+  "deck": "core",
+  "note": "as in ego"
+ },
+ {
+  "id": "c501",
+  "en": "instrument",
+  "la": "organum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "musical instrument"
+ },
+ {
+  "id": "c502",
+  "en": "to jump",
+  "la": "saliō, salīre",
+  "gram": "v4",
+  "deck": "core",
+  "note": "cf. salient, somersault"
+ },
+ {
+  "id": "c503",
+  "en": "to kill",
+  "la": "necō, necāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "Henle's famous verb"
+ },
+ {
+  "id": "c504",
+  "en": "to kiss",
+  "la": "bāsiō, bāsiāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "Catullus: dā mī bāsia mīlle"
+ },
+ {
+  "id": "c505",
+  "en": "to laugh",
+  "la": "rīdeō, rīdēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "as in ridiculous"
+ },
+ {
+  "id": "c506",
+  "en": "to learn",
+  "la": "discō, discere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "root of discipulus"
+ },
+ {
+  "id": "c507",
+  "en": "left",
+  "la": "sinister, -tra, -trum",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "yes — that sinister"
+ },
+ {
+  "id": "c508",
+  "en": "leg",
+  "la": "crūs, crūris",
+  "gram": "n3",
+  "deck": "core"
+ },
+ {
+  "id": "c509",
+  "en": "letter",
+  "la": "epistula, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "as in epistle; littera = letter of alphabet"
+ },
+ {
+  "id": "c510",
+  "en": "to lie down (and rest)",
+  "la": "recumbō, recumbere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in recumbent"
+ },
+ {
+  "id": "c511",
+  "en": "to lift up",
+  "la": "tollō, tollere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "principal parts: sustulī, sublātum!"
+ },
+ {
+  "id": "c512",
+  "en": "light",
+  "la": "levis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "not heavy — as in levity, elevate"
+ },
+ {
+  "id": "c513",
+  "en": "light",
+  "la": "lūcidus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "bright"
+ },
+ {
+  "id": "c514",
+  "en": "to lock",
+  "la": "obserō, obserāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "bolt shut"
+ },
+ {
+  "id": "c515",
+  "en": "long (distance",
+  "la": "longus, -a, -um",
+  "gram": "adj12",
+  "deck": "core"
+ },
+ {
+  "id": "c516",
+  "en": "to lose (someone or something)",
+  "la": "āmittō, āmittere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "send away"
+ },
+ {
+  "id": "c517",
+  "en": "to love",
+  "la": "amō, amāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "THE first Latin verb"
+ },
+ {
+  "id": "c518",
+  "en": "low",
+  "la": "humilis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "near the ground — as in humble"
+ },
+ {
+  "id": "c519",
+  "en": "to marry",
+  "la": "dūcō / nūbō",
+  "gram": "v3",
+  "deck": "core",
+  "note": "groom dūcit, bride nūbit"
+ },
+ {
+  "id": "c520",
+  "en": "to melt",
+  "la": "liquēscō, liquēscere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in liquid"
+ },
+ {
+  "id": "c521",
+  "en": "to mix",
+  "la": "misceō, miscēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "as in miscellaneous"
+ },
+ {
+  "id": "c522",
+  "en": "month-long period",
+  "la": "mēnsis, -is",
+  "gram": "m3",
+  "deck": "core",
+  "note": "month — cf. semester"
+ },
+ {
+  "id": "c523",
+  "en": "night",
+  "la": "nox, noctis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in nocturnal"
+ },
+ {
+  "id": "c524",
+  "en": "note",
+  "la": "adnotātiō, -ōnis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in annotation"
+ },
+ {
+  "id": "c525",
+  "en": "oil",
+  "la": "oleum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "olive oil — cf. petroleum, rock-oil"
+ },
+ {
+  "id": "c526",
+  "en": "old (thing)",
+  "la": "vetus, -eris",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in veteran"
+ },
+ {
+  "id": "c527",
+  "en": "old",
+  "la": "senex, senis",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "of persons — as in senator, senior"
+ },
+ {
+  "id": "c528",
+  "en": "to open",
+  "la": "aperiō, aperīre",
+  "gram": "v4",
+  "deck": "core",
+  "note": "as in aperture"
+ },
+ {
+  "id": "c529",
+  "en": "to paint",
+  "la": "pingō, pingere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in picture"
+ },
+ {
+  "id": "c530",
+  "en": "park",
+  "la": "viridārium, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "pleasure-garden"
+ },
+ {
+  "id": "c531",
+  "en": "to pass",
+  "la": "praetereō, praeterīre",
+  "gram": "v irr",
+  "deck": "core",
+  "note": "go past"
+ },
+ {
+  "id": "c532",
+  "en": "to pay",
+  "la": "solvō, solvere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "settle up — as in solve!"
+ },
+ {
+  "id": "c533",
+  "en": "piece",
+  "la": "pars, partis",
+  "gram": "f3",
+  "deck": "core",
+  "note": "as in part"
+ },
+ {
+  "id": "c534",
+  "en": "to play",
+  "la": "lūdō, lūdere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in ludicrous"
+ },
+ {
+  "id": "c535",
+  "en": "player",
+  "la": "lūsor, -ōris",
+  "gram": "m3",
+  "deck": "core"
+ },
+ {
+  "id": "c536",
+  "en": "pound",
+  "la": "lībra, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "why pound = lb!"
+ },
+ {
+  "id": "c537",
+  "en": "to pray",
+  "la": "ōrō, ōrāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in oration — Henle verb"
+ },
+ {
+  "id": "c538",
+  "en": "program",
+  "la": "prōgramma, -atis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "Greek loan"
+ },
+ {
+  "id": "c539",
+  "en": "to pull",
+  "la": "trahō, trahere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in tractor"
+ },
+ {
+  "id": "c540",
+  "en": "to push",
+  "la": "trūdō, trūdere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in intrude"
+ },
+ {
+  "id": "c541",
+  "en": "race",
+  "la": "certāmen, -inis",
+  "gram": "n3",
+  "deck": "core",
+  "note": "contest"
+ },
+ {
+  "id": "c542",
+  "en": "to race",
+  "la": "certō, certāre",
+  "gram": "v1",
+  "deck": "core"
+ },
+ {
+  "id": "c543",
+  "en": "right",
+  "la": "dexter, -tra, -trum",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in dexterity"
+ },
+ {
+  "id": "c544",
+  "en": "room",
+  "la": "conclāve, -is",
+  "gram": "n3",
+  "deck": "core",
+  "note": "lockable room — as in conclave"
+ },
+ {
+  "id": "c545",
+  "en": "to run",
+  "la": "currō, currere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in current, curriculum"
+ },
+ {
+  "id": "c546",
+  "en": "second",
+  "la": "secundus, -a, -um",
+  "gram": "num ord",
+  "deck": "core",
+  "note": "the one following"
+ },
+ {
+  "id": "c547",
+  "en": "second",
+  "la": "secundum temporis",
+  "gram": "n2 phrase",
+  "deck": "core",
+  "neo": 1,
+  "note": "the time unit"
+ },
+ {
+  "id": "c548",
+  "en": "to see",
+  "la": "videō, vidēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "as in video — Henle verb"
+ },
+ {
+  "id": "c549",
+  "en": "to sell",
+  "la": "vendō, vendere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in vendor"
+ },
+ {
+  "id": "c550",
+  "en": "to shake",
+  "la": "agitō, agitāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in agitate"
+ },
+ {
+  "id": "c551",
+  "en": "she",
+  "la": "ea / illa",
+  "gram": "pron",
+  "deck": "core"
+ },
+ {
+  "id": "c552",
+  "en": "to shoot (at)",
+  "la": "iaculor, iaculārī",
+  "gram": "v1 dep",
+  "deck": "core",
+  "note": "hurl at — deponent"
+ },
+ {
+  "id": "c553",
+  "en": "short",
+  "la": "brevis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "as in brief"
+ },
+ {
+  "id": "c554",
+  "en": "short",
+  "la": "curtus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "cut short — as in curt"
+ },
+ {
+  "id": "c555",
+  "en": "autograph",
+  "la": "chīrographum, -ī",
+  "gram": "n2",
+  "deck": "core",
+  "note": "hand-writing, a real Roman word"
+ },
+ {
+  "id": "c556",
+  "en": "to sing",
+  "la": "cantō, cantāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in chant, cantor"
+ },
+ {
+  "id": "c557",
+  "en": "to sit",
+  "la": "sedeō, sedēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "as in sedentary"
+ },
+ {
+  "id": "c558",
+  "en": "to sleep",
+  "la": "dormiō, dormīre",
+  "gram": "v4",
+  "deck": "core",
+  "note": "as in dormitory"
+ },
+ {
+  "id": "c559",
+  "en": "to smell",
+  "la": "olfaciō, olfacere",
+  "gram": "v3io",
+  "deck": "core",
+  "note": "as in olfactory"
+ },
+ {
+  "id": "c560",
+  "en": "to smile (also laugh)",
+  "la": "subrīdeō, subrīdēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "smile — 'under-laugh'"
+ },
+ {
+  "id": "c561",
+  "en": "to speak",
+  "la": "loquor, loquī",
+  "gram": "v3 dep",
+  "deck": "core",
+  "note": "deponent! as in eloquent"
+ },
+ {
+  "id": "c562",
+  "en": "to say",
+  "la": "dīcō, dīcere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in dictate — Henle verb"
+ },
+ {
+  "id": "c563",
+  "en": "spring",
+  "la": "vēr, vēris",
+  "gram": "n3",
+  "deck": "core",
+  "note": "as in vernal"
+ },
+ {
+  "id": "c564",
+  "en": "to stand",
+  "la": "stō, stāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in station, statue"
+ },
+ {
+  "id": "c565",
+  "en": "to stop (moving)",
+  "la": "cōnsistō, cōnsistere",
+  "gram": "v3",
+  "deck": "core"
+ },
+ {
+  "id": "c566",
+  "en": "straight",
+  "la": "rēctus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "as in rectangle, correct"
+ },
+ {
+  "id": "c567",
+  "en": "to swim",
+  "la": "natō, natāre",
+  "gram": "v1",
+  "deck": "core"
+ },
+ {
+  "id": "c568",
+  "en": "to taste",
+  "la": "gustō, gustāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in gusto, disgust"
+ },
+ {
+  "id": "c569",
+  "en": "to teach",
+  "la": "doceō, docēre",
+  "gram": "v2",
+  "deck": "core",
+  "note": "as in doctor, docile"
+ },
+ {
+  "id": "c570",
+  "en": "temperature",
+  "la": "temperātūra, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1
+ },
+ {
+  "id": "c571",
+  "en": "thin",
+  "la": "gracilis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "of persons — slender"
+ },
+ {
+  "id": "c572",
+  "en": "thin",
+  "la": "tenuis, -e",
+  "gram": "adj3",
+  "deck": "core",
+  "note": "of things — as in tenuous"
+ },
+ {
+  "id": "c573",
+  "en": "to think",
+  "la": "cōgitō, cōgitāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "cōgitō ergō sum"
+ },
+ {
+  "id": "c574",
+  "en": "third",
+  "la": "tertius, -a, -um",
+  "gram": "num ord",
+  "deck": "core",
+  "note": "as in tertiary"
+ },
+ {
+  "id": "c575",
+  "en": "to throw (e.g. a ball)",
+  "la": "iaciō, iacere",
+  "gram": "v3io",
+  "deck": "core",
+  "note": "as in eject, project"
+ },
+ {
+  "id": "c576",
+  "en": "ticket",
+  "la": "tessera, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "note": "Roman theater tokens"
+ },
+ {
+  "id": "c577",
+  "en": "tire",
+  "la": "canthus, -ī",
+  "gram": "m2",
+  "deck": "core",
+  "note": "classical wheel-rim"
+ },
+ {
+  "id": "c578",
+  "en": "toe",
+  "la": "digitus pedis",
+  "gram": "m2 phrase",
+  "deck": "core",
+  "note": "finger of the foot"
+ },
+ {
+  "id": "c579",
+  "en": "to touch",
+  "la": "tangō, tangere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in tangent, contact"
+ },
+ {
+  "id": "c580",
+  "en": "to turn",
+  "la": "vertō, vertere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in convert, versus"
+ },
+ {
+  "id": "c581",
+  "en": "to get up",
+  "la": "surgō, surgere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in surge, resurrection"
+ },
+ {
+  "id": "c582",
+  "en": "to walk",
+  "la": "ambulō, ambulāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in ambulance, amble"
+ },
+ {
+  "id": "c583",
+  "en": "to wash",
+  "la": "lavō, lavāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in lavatory"
+ },
+ {
+  "id": "c584",
+  "en": "to wear (from the shoulders down)",
+  "la": "gerō, gerere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "bear/wear"
+ },
+ {
+  "id": "c585",
+  "en": "to get wet",
+  "la": "madēscō, madēscere",
+  "gram": "v3",
+  "deck": "core"
+ },
+ {
+  "id": "c586",
+  "en": "to win",
+  "la": "vincō, vincere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "vēnī vīdī vīcī"
+ },
+ {
+  "id": "c587",
+  "en": "to work",
+  "la": "labōrō, labōrāre",
+  "gram": "v1",
+  "deck": "core",
+  "note": "as in labor — Henle verb"
+ },
+ {
+  "id": "c588",
+  "en": "to write",
+  "la": "scrībō, scrībere",
+  "gram": "v3",
+  "deck": "core",
+  "note": "as in scribe, script"
+ },
+ {
+  "id": "c589",
+  "en": "yard",
+  "la": "virga, -ae",
+  "gram": "f1",
+  "deck": "core",
+  "neo": 1,
+  "note": "rod-measure — 'yard' comes from a rod"
+ },
+ {
+  "id": "c590",
+  "en": "clean",
+  "la": "mundus, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "note": "same word as 'world'!"
+ },
+ {
+  "id": "c591",
+  "en": "orange",
+  "la": "aurantius, -a, -um",
+  "gram": "adj12",
+  "deck": "core",
+  "neo": 1,
+  "note": "the color"
+ },
+ {
+  "id": "h000",
+  "en": "gate",
+  "la": "porta, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "as in portal"
+ },
+ {
+  "id": "h001",
+  "en": "sailor",
+  "la": "nauta, -ae",
+  "gram": "m1",
+  "deck": "homeschool",
+  "note": "masculine 1st decl. — as in nautical"
+ },
+ {
+  "id": "h002",
+  "en": "farmer",
+  "la": "agricola, -ae",
+  "gram": "m1",
+  "deck": "homeschool",
+  "note": "masculine 1st decl. — field-tiller"
+ },
+ {
+  "id": "h003",
+  "en": "poet",
+  "la": "poēta, -ae",
+  "gram": "m1",
+  "deck": "homeschool",
+  "note": "masculine 1st decl."
+ },
+ {
+  "id": "h004",
+  "en": "kingdom",
+  "la": "rēgnum, -ī",
+  "gram": "n2",
+  "deck": "homeschool",
+  "note": "as in reign"
+ },
+ {
+  "id": "h005",
+  "en": "glory / fame",
+  "la": "glōria, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h006",
+  "en": "memory",
+  "la": "memoria, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h007",
+  "en": "victory",
+  "la": "victōria, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h008",
+  "en": "fortune / luck",
+  "la": "fortūna, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h009",
+  "en": "wisdom",
+  "la": "sapientia, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "as in Homō sapiēns"
+ },
+ {
+  "id": "h010",
+  "en": "justice",
+  "la": "iūstitia, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h011",
+  "en": "truth",
+  "la": "vēritās, -ātis",
+  "gram": "f3",
+  "deck": "homeschool",
+  "note": "Harvard's motto"
+ },
+ {
+  "id": "h012",
+  "en": "liberty / freedom",
+  "la": "lībertās, -ātis",
+  "gram": "f3",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h013",
+  "en": "courage / virtue",
+  "la": "virtūs, -ūtis",
+  "gram": "f3",
+  "deck": "homeschool",
+  "note": "manliness, from vir"
+ },
+ {
+  "id": "h014",
+  "en": "love",
+  "la": "amor, -ōris",
+  "gram": "m3",
+  "deck": "homeschool",
+  "note": "Rōma spelled backwards"
+ },
+ {
+  "id": "h015",
+  "en": "god / goddess",
+  "la": "deus, -ī / dea, -ae",
+  "gram": "m2/f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h016",
+  "en": "master / mistress",
+  "la": "dominus, -ī / domina, -ae",
+  "gram": "m2/f1",
+  "deck": "homeschool",
+  "note": "as in dominate"
+ },
+ {
+  "id": "h017",
+  "en": "slave / servant",
+  "la": "servus, -ī",
+  "gram": "m2",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h018",
+  "en": "people / nation",
+  "la": "populus, -ī",
+  "gram": "m2",
+  "deck": "homeschool",
+  "note": "SPQR: Senātus Populusque Rōmānus"
+ },
+ {
+  "id": "h019",
+  "en": "clan / tribe",
+  "la": "gēns, gentis",
+  "gram": "f3",
+  "deck": "homeschool",
+  "note": "as in gentile"
+ },
+ {
+  "id": "h020",
+  "en": "command / empire",
+  "la": "imperium, -ī",
+  "gram": "n2",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h021",
+  "en": "law",
+  "la": "lēx, lēgis",
+  "gram": "f3",
+  "deck": "homeschool",
+  "note": "as in legal"
+ },
+ {
+  "id": "h022",
+  "en": "citizen",
+  "la": "cīvis, -is",
+  "gram": "m/f3",
+  "deck": "homeschool",
+  "note": "as in civic"
+ },
+ {
+  "id": "h023",
+  "en": "senate",
+  "la": "senātus, -ūs",
+  "gram": "m4",
+  "deck": "homeschool",
+  "note": "council of elders"
+ },
+ {
+  "id": "h024",
+  "en": "consul",
+  "la": "cōnsul, -is",
+  "gram": "m3",
+  "deck": "homeschool",
+  "note": "Rome's two chief magistrates"
+ },
+ {
+  "id": "h025",
+  "en": "sword",
+  "la": "gladius, -ī",
+  "gram": "m2",
+  "deck": "homeschool",
+  "note": "as in gladiator"
+ },
+ {
+  "id": "h026",
+  "en": "shield",
+  "la": "scūtum, -ī",
+  "gram": "n2",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h027",
+  "en": "spear",
+  "la": "hasta, -ae",
+  "gram": "f1",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h028",
+  "en": "fort",
+  "la": "castellum, -ī",
+  "gram": "n2",
+  "deck": "homeschool",
+  "note": "as in castle"
+ },
+ {
+  "id": "h029",
+  "en": "eagle",
+  "la": "aquila, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "the legion's standard"
+ },
+ {
+  "id": "h030",
+  "en": "wolf / she-wolf",
+  "la": "lupus, -ī / lupa, -ae",
+  "gram": "m2/f1",
+  "deck": "homeschool",
+  "note": "the she-wolf raised Romulus & Remus"
+ },
+ {
+  "id": "h031",
+  "en": "Rome",
+  "la": "Rōma, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "the Eternal City"
+ },
+ {
+  "id": "h032",
+  "en": "name",
+  "la": "nōmen, -inis",
+  "gram": "n3",
+  "deck": "homeschool",
+  "note": "as in nominate"
+ },
+ {
+  "id": "h033",
+  "en": "road / way",
+  "la": "via, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "also street in the core deck"
+ },
+ {
+  "id": "h034",
+  "en": "land / earth",
+  "la": "terra, -ae",
+  "gram": "f1",
+  "deck": "homeschool",
+  "note": "also in the core deck — THE first noun"
+ },
+ {
+  "id": "h035",
+  "en": "to be",
+  "la": "sum, esse",
+  "gram": "v irr",
+  "deck": "homeschool",
+  "note": "sum es est sumus estis sunt"
+ },
+ {
+  "id": "h036",
+  "en": "to be able",
+  "la": "possum, posse",
+  "gram": "v irr",
+  "deck": "homeschool",
+  "note": "as in possible"
+ },
+ {
+  "id": "h037",
+  "en": "to give",
+  "la": "dō, dare",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "as in donate, data"
+ },
+ {
+  "id": "h038",
+  "en": "to have",
+  "la": "habeō, habēre",
+  "gram": "v2",
+  "deck": "homeschool",
+  "note": "as in habit"
+ },
+ {
+  "id": "h039",
+  "en": "to hold",
+  "la": "teneō, tenēre",
+  "gram": "v2",
+  "deck": "homeschool",
+  "note": "as in tenant, contain"
+ },
+ {
+  "id": "h040",
+  "en": "to move",
+  "la": "moveō, movēre",
+  "gram": "v2",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h041",
+  "en": "to send",
+  "la": "mittō, mittere",
+  "gram": "v3",
+  "deck": "homeschool",
+  "note": "as in mission, transmit"
+ },
+ {
+  "id": "h042",
+  "en": "to lead",
+  "la": "dūcō, dūcere",
+  "gram": "v3",
+  "deck": "homeschool",
+  "note": "as in duke, conduct"
+ },
+ {
+  "id": "h043",
+  "en": "to make / do",
+  "la": "faciō, facere",
+  "gram": "v3io",
+  "deck": "homeschool",
+  "note": "as in factory, fact"
+ },
+ {
+  "id": "h044",
+  "en": "to come",
+  "la": "veniō, venīre",
+  "gram": "v4",
+  "deck": "homeschool",
+  "note": "as in advent, convene"
+ },
+ {
+  "id": "h045",
+  "en": "to know",
+  "la": "sciō, scīre",
+  "gram": "v4",
+  "deck": "homeschool",
+  "note": "as in science"
+ },
+ {
+  "id": "h046",
+  "en": "to fear",
+  "la": "timeō, timēre",
+  "gram": "v2",
+  "deck": "homeschool",
+  "note": "as in timid"
+ },
+ {
+  "id": "h047",
+  "en": "to hope",
+  "la": "spērō, spērāre",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "dum spīrō spērō — while I breathe, I hope"
+ },
+ {
+  "id": "h048",
+  "en": "to guard / save",
+  "la": "servō, servāre",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "as in conserve"
+ },
+ {
+  "id": "h049",
+  "en": "to sail",
+  "la": "nāvigō, nāvigāre",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "as in navigate"
+ },
+ {
+  "id": "h050",
+  "en": "to prepare",
+  "la": "parō, parāre",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "semper parātus — always ready"
+ },
+ {
+  "id": "h051",
+  "en": "to overcome",
+  "la": "superō, superāre",
+  "gram": "v1",
+  "deck": "homeschool",
+  "note": "as in superior"
+ },
+ {
+  "id": "h052",
+  "en": "and",
+  "la": "et",
+  "gram": "conj",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h053",
+  "en": "but",
+  "la": "sed",
+  "gram": "conj",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h054",
+  "en": "not",
+  "la": "nōn",
+  "gram": "adv",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h055",
+  "en": "always",
+  "la": "semper",
+  "gram": "adv",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h056",
+  "en": "never",
+  "la": "numquam",
+  "gram": "adv",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h057",
+  "en": "often",
+  "la": "saepe",
+  "gram": "adv",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h058",
+  "en": "with (+ abl.)",
+  "la": "cum",
+  "gram": "prep",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h059",
+  "en": "in, on (+ abl.) / into (+ acc.)",
+  "la": "in",
+  "gram": "prep",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h060",
+  "en": "to, toward (+ acc.)",
+  "la": "ad",
+  "gram": "prep",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h061",
+  "en": "out of (+ abl.)",
+  "la": "ex, ē",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in exit"
+ },
+ {
+  "id": "h062",
+  "en": "from, by (+ abl.)",
+  "la": "ab, ā",
+  "gram": "prep",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h063",
+  "en": "through (+ acc.)",
+  "la": "per",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in perennial"
+ },
+ {
+  "id": "h064",
+  "en": "after (+ acc.)",
+  "la": "post",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in postpone"
+ },
+ {
+  "id": "h065",
+  "en": "before (+ acc.)",
+  "la": "ante",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in antebellum"
+ },
+ {
+  "id": "h066",
+  "en": "under (+ abl.)",
+  "la": "sub",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in submarine"
+ },
+ {
+  "id": "h067",
+  "en": "between, among (+ acc.)",
+  "la": "inter",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in international"
+ },
+ {
+  "id": "h068",
+  "en": "against (+ acc.)",
+  "la": "contrā",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in contrary"
+ },
+ {
+  "id": "h069",
+  "en": "down from, about (+ abl.)",
+  "la": "dē",
+  "gram": "prep",
+  "deck": "homeschool",
+  "note": "as in descend"
+ },
+ {
+  "id": "h070",
+  "en": "who? what?",
+  "la": "quis? quid?",
+  "gram": "pron",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h071",
+  "en": "why?",
+  "la": "cūr?",
+  "gram": "adv",
+  "deck": "homeschool"
+ },
+ {
+  "id": "h072",
+  "en": "where? when?",
+  "la": "ubi?",
+  "gram": "adv",
+  "deck": "homeschool",
+  "note": "as in ubiquitous"
+ },
+ {
+  "id": "p000",
+  "en": "seize the day",
+  "la": "carpe diem",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Horace"
+ },
+ {
+  "id": "p001",
+  "en": "out of many, one",
+  "la": "ē plūribus ūnum",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "on U.S. coins"
+ },
+ {
+  "id": "p002",
+  "en": "always faithful",
+  "la": "semper fidēlis",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "USMC motto"
+ },
+ {
+  "id": "p003",
+  "en": "I came, I saw, I conquered",
+  "la": "vēnī, vīdī, vīcī",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Julius Caesar"
+ },
+ {
+  "id": "p004",
+  "en": "I think, therefore I am",
+  "la": "cōgitō, ergō sum",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Descartes"
+ },
+ {
+  "id": "p005",
+  "en": "to the stars through hardships",
+  "la": "ad astra per aspera",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Kansas motto"
+ },
+ {
+  "id": "p006",
+  "en": "my fault",
+  "la": "mea culpa",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p007",
+  "en": "and the rest",
+  "la": "et cetera",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "etc.!"
+ },
+ {
+  "id": "p008",
+  "en": "before / after midday",
+  "la": "ante merīdiem / post merīdiem",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "a.m. and p.m.!"
+ },
+ {
+  "id": "p009",
+  "en": "in the year of the Lord",
+  "la": "annō Dominī",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "A.D.!"
+ },
+ {
+  "id": "p010",
+  "en": "nourishing mother",
+  "la": "alma māter",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "your school"
+ },
+ {
+  "id": "p011",
+  "en": "in good faith",
+  "la": "bonā fidē",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p012",
+  "en": "solid ground",
+  "la": "terra firma",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p013",
+  "en": "time flies",
+  "la": "tempus fugit",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Virgil"
+ },
+ {
+  "id": "p014",
+  "en": "let the buyer beware",
+  "la": "caveat ēmptor",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p015",
+  "en": "entirely",
+  "la": "in tōtō",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p016",
+  "en": "by itself",
+  "la": "per sē",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p017",
+  "en": "the other way around",
+  "la": "vice versā",
+  "gram": "phrase",
+  "deck": "phrases"
+ },
+ {
+  "id": "p018",
+  "en": "while I breathe, I hope",
+  "la": "dum spīrō, spērō",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "S. Carolina motto"
+ },
+ {
+  "id": "p019",
+  "en": "pray and work",
+  "la": "ora et labōrā",
+  "gram": "phrase",
+  "deck": "phrases",
+  "note": "Benedictine motto"
+ },
+ {
+  "id": "x000",
+  "en": "1st declension endings (sg)",
+  "la": "-a, -ae, -ae, -am, -ā",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — puella"
+ },
+ {
+  "id": "x001",
+  "en": "1st declension endings (pl)",
+  "la": "-ae, -ārum, -īs, -ās, -īs",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — puellae"
+ },
+ {
+  "id": "x002",
+  "en": "2nd declension m. endings (sg)",
+  "la": "-us, -ī, -ō, -um, -ō",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — servus"
+ },
+ {
+  "id": "x003",
+  "en": "2nd declension m. endings (pl)",
+  "la": "-ī, -ōrum, -īs, -ōs, -īs",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — servī"
+ },
+ {
+  "id": "x004",
+  "en": "2nd declension n. endings (sg)",
+  "la": "-um, -ī, -ō, -um, -ō",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — bellum"
+ },
+ {
+  "id": "x005",
+  "en": "2nd declension n. endings (pl)",
+  "la": "-a, -ōrum, -īs, -a, -īs",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — bella"
+ },
+ {
+  "id": "x006",
+  "en": "3rd declension endings (sg)",
+  "la": "—, -is, -ī, -em, -e",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — rēx"
+ },
+ {
+  "id": "x007",
+  "en": "3rd declension endings (pl)",
+  "la": "-ēs, -um, -ibus, -ēs, -ibus",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "nom gen dat acc abl — rēgēs"
+ },
+ {
+  "id": "x008",
+  "en": "present tense endings",
+  "la": "-ō, -s, -t, -mus, -tis, -nt",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "I, you, he/she, we, y'all, they"
+ },
+ {
+  "id": "x009",
+  "en": "amō (present)",
+  "la": "amō, amās, amat, amāmus, amātis, amant",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "1st conjugation model"
+ },
+ {
+  "id": "x010",
+  "en": "sum (present)",
+  "la": "sum, es, est, sumus, estis, sunt",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "to be — irregular"
+ },
+ {
+  "id": "x011",
+  "en": "imperfect endings",
+  "la": "-bam, -bās, -bat, -bāmus, -bātis, -bant",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "was/used to ___"
+ },
+ {
+  "id": "x012",
+  "en": "future endings (1st/2nd conj.)",
+  "la": "-bō, -bis, -bit, -bimus, -bitis, -bunt",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "will ___"
+ },
+ {
+  "id": "x013",
+  "en": "the five cases",
+  "la": "nōminātīve, genitive, dative, accūsātive, ablātive",
+  "gram": "chant",
+  "deck": "chants",
+  "note": "naming, of, to/for, direct object, by/with/from"
+ }
+]
