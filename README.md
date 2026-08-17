@@ -4,9 +4,10 @@ Offline flip-card web app for classical Latin, built 2026-08-17 on Mike's ask:
 *"a version of the japanese app but for latin words. same list ideally plus any
 words someone studying classical latin in homeschool might want to know."*
 
-**Live:** https://claude.ai/code/artifact/6d36d401-c346-484b-a22d-6a7c2579a0d7
-(private artifact; share from the page's menu. Each device/browser keeps its own
-learner profiles + schedules in localStorage.)
+**Live:** https://turlockmike.github.io/latin-cards/ (GitHub Pages, repo
+`turlockmike/latin-cards` — same deploy shape as kana-cards; installable PWA,
+offline after first visit). Artifact mirror:
+https://claude.ai/code/artifact/6d36d401-c346-484b-a22d-6a7c2579a0d7
 
 ## Lineage (why this app looks the way it does)
 

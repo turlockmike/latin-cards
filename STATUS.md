@@ -2,7 +2,7 @@
 
 **Status:** SHIPPED v1 (2026-08-17)
 
-Live artifact: https://claude.ai/code/artifact/6d36d401-c346-484b-a22d-6a7c2579a0d7
+Live: https://turlockmike.github.io/latin-cards/ (primary, GitHub Pages — Mike directive 2026-08-17 "like the other one") · artifact mirror 6d36d401
 
 Verification state: list-alignment/data/FSRS/dist oracles green (`node test.js`);
 headless playwright smoke green (profile → study → flip → grade → persist;
