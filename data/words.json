@@ -488,7 +488,8 @@
   "la": "chartula, -ae",
   "gram": "f1",
   "deck": "core",
-  "note": "little paper"
+  "neo": 1,
+  "note": "little paper — no classical word for a modern card"
  },
  {
   "id": "c064",
@@ -3234,7 +3235,8 @@
   "en": "victim",
   "la": "victima, -ae",
   "gram": "f1",
-  "deck": "core"
+  "deck": "core",
+  "note": "sacrificial victim (the animal offered) — not a crime victim"
  },
  {
   "id": "c416",
