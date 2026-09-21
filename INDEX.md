@@ -6,6 +6,7 @@
 
 ## Files
 - `README.md` — Tabula Latina — Latin flashcards for the family
+- `SPOTCHECK-2026-09-21.md` — Latin core-deck spot-check — 2026-09-21
 - `STATUS.md` — Latin Flashcards — Status
 - `app.js`
 - `build_artifact.py`
@@ -18,4 +19,4 @@
 - `sw.js`
 - `test.js`
 
-_1 subfolders, 12 files._
+_1 subfolders, 13 files._
