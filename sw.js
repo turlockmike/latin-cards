@@ -1,6 +1,6 @@
 /* Offline-first service worker — same cache-first pattern as kana-cards.
  * App shell cached at install; works with no network after first visit. */
-const CACHE='latina-v1';
+const CACHE='latina-v2';
 const ASSETS=['./','./index.html','./fsrs.js','./data.js','./app.js',
               './manifest.json','./icon.svg'];
 self.addEventListener('install',e=>{
